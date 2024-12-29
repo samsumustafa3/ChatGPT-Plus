@@ -1,4 +1,4 @@
-# 2024年6月最新版ChatGPT Plus订阅指南（推荐代升级服务）
+# 2025年1月最新版ChatGPT Plus订阅指南（推荐代升级服务）
 
 ## 前言
 
@@ -15,8 +15,8 @@
 
 - 国内所有VISA和MasterCard信用卡，即使有外币支付功能，也无法绑定。
 - 香港信用卡和虚拟信用卡同样无法绑定。
-- [Fomepay信用卡 0月费开通渠道](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)（邀请码：Q3DD80）
-- [推荐美国Visa虚拟信用卡的在线申请和开通平台](https://github.com/etwater280/VisaCard)
+- [WildCard | 一分钟注册，轻松订阅海外线上服务 开通渠道](https://bit.ly/bewildcard)（邀请码：ACCPAY）
+
 
 所以，使用这种方式开通ChatGPT Plus的前提是拥有一张国外信用卡或国外虚拟信用卡。
 
@@ -64,4 +64,7 @@ ChatGPT在2023年5月底推出iOS客户端，现在全球很多国家的App Stor
 
 ## ChatGPT Plus代升级
 
-最后，也是最简单的方法：花钱买服务。通过以下链接获取代升级服务：[代升级服务](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80) 邀请码：Q3DD80
+最后，也是最简单的方法：花钱买服务。通过以下链接获取代升级服务：[ChatGPT Plus 代升级服务](https://bit.ly/bewildcard) 邀请码：ACCPAY
+
+
+- [推荐美国Visa虚拟信用卡的在线申请和开通平台](https://github.com/etwater280/VisaCard)
